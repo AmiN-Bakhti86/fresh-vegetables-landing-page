@@ -481,11 +481,11 @@ html {
 }
 
 .left-banner {
-    background: url(../image/right.jpg) center /cover no-repeat rgba(0, 0, 0, 0.464);
+    background: url('../image/right.jpg') center /cover no-repeat rgba(0, 0, 0, 0.464);
 }
 
 .right-banner {
-    background: url(../image/letd.png) center /cover no-repeat rgba(0, 0, 0, 0.464);
+    background: url('../image/letd.png') center /cover no-repeat rgba(0, 0, 0, 0.464);
 }
 
 .main-opinions {
